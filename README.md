@@ -2,6 +2,7 @@
 Simple but incomplete HWID Spoofer Source Code, i made this so do not go around claiming it as yours!!
 
 
+
 ![image](https://cdn.discordapp.com/attachments/953401561646784573/990323286942576660/standard_20.gif)
 
 
@@ -34,10 +35,16 @@ Simple but incomplete HWID Spoofer Source Code, i made this so do not go around 
 
 If you like my releases, why not join the discord and see whats going on, you can buy more MW2 Cheats or Better Source codes to amplify your gameplay and coding scene's.
 
-DISCLAIMER:  There has been a lot of online drama in the MW2 Coding scene, if you get any form of message from GazzasLobbies#0848, ignore it, DO NOT BUY FROM HIM, i have miltiple pieces of evidence of him scamming and admitting to asking people how much money they have.
+```diff
+! DISCLAIMER:  There has been a lot of online drama in the 
+! MW2 Coding scene, if you get any form of message from GazzasLobbies#0848, 
+! ignore it, DO NOT BUY FROM HIM, i have miltiple pieces of evidence of him 
+! scamming and admitting to asking people how much money they have.
+```
 
 I suggest you buy from RACADEMY If you're looking fot better top tier cheats for games, 40+ Vouches and Guarrantee'ing you well worth products!
 
 Zcxq-#5824
 
 ![image](https://cdn.discordapp.com/attachments/953401561646784573/990323286942576660/standard_20.gif)
+
